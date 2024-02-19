@@ -37,7 +37,7 @@
 
 This project is an IOS App designed to allow users to track various books that they read, or are planning to read. The app also features the ability for users to wishlist books alongside of a link to purchase them on Amazon. You can also track your reading progress for each of your books. Users can create an account to have permanent storage of their books. You can add books though dynamic searching including book or author title, manual ISBN entry, or through scanning ISBN barcode using your phone's camera. 
 
-*Please note that portions of the codebase are not public and by extension present in this repository due to security issues*
+*Please note that portions of the codebase are not public and by extension not present in this repository due to security issues*
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
